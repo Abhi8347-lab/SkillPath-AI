@@ -1,0 +1,10 @@
+# SkillPath AI – Production Dependencies for Streamlit Community Cloud
+# Core Framework & UI
+streamlit>=1.35.0
+
+# Data Processing & Skill Matrix Computations
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Interactive Visualizations & Dashboards
+plotly>=5.18.0
